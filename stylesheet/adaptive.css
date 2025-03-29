@@ -1,0 +1,46 @@
+/* мобилки */
+
+@media screen and (max-width: 414px) and (orientation: portrait) {
+
+}
+
+@media screen and (max-width: 414px) and (orientation: landscape) {
+
+}
+
+/* планшет/ */
+@media screen and (min-width: 415px) and (max-width: 768px) and (orientation: portrait) {
+    
+}
+
+@media screen and (min-width: 415px) and (max-width: 768px) and (orientation: landscape) {
+
+}
+
+
+/* средние экраны 1025x1366px */
+@media screen and (min-width: 1025px) and (max-width: 1366px) and (orientation: portrait) {
+   
+}
+
+@media screen and (min-width: 1025px) and (max-width: 1366px) and (orientation: landscape) {
+  
+}
+
+/* большие экраны  1367x1920px  */
+@media screen and (min-width: 1367px) and (max-width: 1920px) and (orientation: portrait) {
+   
+}
+
+@media screen and (min-width: 1367px) and (max-width: 1920px) and (orientation: landscape) {
+    
+}
+
+/* 1920px */
+@media screen and (min-width: 1921px) and (orientation: portrait) {
+    
+}
+
+@media screen and (min-width: 1921px) and (orientation: landscape) {
+  
+}
